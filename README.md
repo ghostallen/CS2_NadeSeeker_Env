@@ -1,5 +1,13 @@
+### Scratch Environment
+WIP. Research purposes primarily. Only a scratch RL environment now：
 
-# User Guide
+1. No visual information for agent.
+  
+2. Agent can only perform standing long throw of smoke grenades.
+  
+3. Single-threaded. 
+
+
 ### Prerequisites
 
 1. Copy "seeknade.cfg" and "gamestate_intergration_nadeseeker.cfg" to "cs2_path/game/csgo/cfg". The first file contians necessary console commands and the second file enables GSI. 
